@@ -1,0 +1,20 @@
+.heading{
+font-size: 23px;
+width:100% ;
+margin: 0px;
+box-shadow: 6px 6px 6px brown ;
+}
+.copy{
+    position: fixed;
+    color: burlywood;
+    bottom: 0;
+    width:100%;
+    background-color: cadetblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border:5px solid whitesmoke;
+    border-radius: radius 20px;
+    box-shadow: 7px 7px 7px fuchsia;
+}
